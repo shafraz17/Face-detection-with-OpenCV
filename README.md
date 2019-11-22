@@ -10,8 +10,9 @@ As the first step install OpenCV library using the follwing command
     
 Finally run the python file
 
+Explanation :-
 
-```javascript
-// Your code here
+```
+import cv2
 ```
     
