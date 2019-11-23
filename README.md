@@ -79,7 +79,7 @@ It shows the detected faces. Now it waits to end the process. So you have to pre
 cap.release()
 cv2.destroyAllWindows()
 ```
-Thme camera is release and all windows are destroyed.
+The camera is release and all windows are destroyed.
 
 
 
